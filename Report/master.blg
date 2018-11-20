@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: master.aux
+The style file: setup/plainnat_en.bst
+Database file #1: bib/VGIS8.bib.bib
+Warning--there's a number but no volume in Al-Waisy2017
+Warning--empty journal in Bazrafkan2017
+Warning--empty publisher in Bowyer2016
+Warning--empty journal in Chen2005a
+Warning--empty publisher in Bowyer2016b
+Warning--empty journal in Khan2017a
+Warning--there's a number but no volume in Rifaee2017
+Warning--empty journal in Ross2003
+Warning--there's a number but no volume in Sequeira2014
+Warning--empty journal in sun2015
+Warning--there's a number but no volume in Uka2017
+You've used 45 entries,
+            2998 wiz_defined-function locations,
+            1031 strings with 18123 characters,
+and the built_in function-call counts, 30228 in all, are:
+= -- 2823
+> -- 1885
+< -- 57
++ -- 635
+- -- 588
+* -- 2449
+:= -- 4378
+add.period$ -- 225
+call.type$ -- 45
+change.case$ -- 286
+chr.to.int$ -- 43
+cite$ -- 101
+duplicate$ -- 1332
+empty$ -- 2142
+format.name$ -- 649
+if$ -- 6540
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 45
+newline$ -- 454
+num.names$ -- 180
+pop$ -- 689
+preamble$ -- 1
+purify$ -- 286
+quote$ -- 0
+skip$ -- 1135
+stack$ -- 0
+substring$ -- 1196
+swap$ -- 369
+text.length$ -- 42
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 490
+warning$ -- 11
+while$ -- 249
+width$ -- 0
+write$ -- 899
+(There were 11 warnings)

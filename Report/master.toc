@@ -1,0 +1,56 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\contentsline {chapter}{Preface}{v}{chapter*.1}
+\contentsline {chapter}{Glossary}{1}{section*.3}
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Background Research}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Face Recognition}{5}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}DeepID}{6}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}DeepID2}{6}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}DeepID3}{7}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Iris Recognition}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Image Acquistion}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Segmentation and Normalisation}{11}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Feature Extraction and Classification}{13}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Deep Learning Methods}{13}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Information Fusion}{16}{section.2.3}
+\contentsline {section}{\numberline {2.4}Multi-Modal Databases}{17}{section.2.4}
+\contentsline {chapter}{\numberline {3}Project Specification}{21}{chapter.3}
+\contentsline {section}{\numberline {3.1}Project Scope}{21}{section.3.1}
+\contentsline {section}{\numberline {3.2}Delimitation}{21}{section.3.2}
+\contentsline {section}{\numberline {3.3}Requirements}{22}{section.3.3}
+\contentsline {chapter}{\numberline {4}Implementation}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}Processing of Iris Images}{23}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Iris Segmentation}{24}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Eyelid Suppression}{25}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Iris Normalisation}{25}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Noise Removal}{26}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Histogram Equalisation}{29}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Feature extraction}{31}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Challenges}{32}{subsection.4.1.7}
+\contentsline {subsubsection}{Algorithm Description}{32}{subsubsection*.27}
+\contentsline {subsubsection}{Processing Issues}{32}{subsubsection*.28}
+\contentsline {section}{\numberline {4.2}Machine Learning Based Iris Classification}{33}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}K-Nearest Neighbour}{33}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Linear Discriminant Analysis}{34}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Support Vector Machines}{34}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Cross Validation}{35}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Convolutional Nerual Networks}{37}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Convolution}{37}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Activation Function and Feature Maps}{38}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Pooling}{39}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Classification}{40}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Network Construction}{40}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}Iris Recognition Network}{41}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Parameters and Settings}{41}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Project Solution}{42}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Face Recognition Network}{44}{section.4.5}
+\contentsline {section}{\numberline {4.6}Network Fusion}{46}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Multimodal Database}{48}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Results}{48}{subsection.4.6.2}
+\contentsline {chapter}{\numberline {5}Evaluation}{51}{chapter.5}
+\contentsline {chapter}{\numberline {6}Conclusion}{53}{chapter.6}
+\contentsline {chapter}{\numberline {7}Future Work}{55}{chapter.7}
+\vspace \bigskipamount 
+\contentsline {chapter}{Bibliography}{57}{chapter*.47}
+\setcounter {tocdepth}{0}

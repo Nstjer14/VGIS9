@@ -1,0 +1,24 @@
+\chapter{Project Specification}\label{ch:projecspec}\glsresetall
+This chapter specifies the scope of the project. It outlines and delimits the goals for the work conducted, as well as setting the requirements for the solutions implemented during the project work. 
+
+\section{Project Scope}
+As stated in \autoref{ch:intro}, the project seeks to make an end solution viable for mobile devices. As a result of the constrains posed by the context of smart phones to the biometric systems the biometric traits utilised will be iris and face information. The project strives to investigate performance of different methods for identity recognition applied on data obtained by smart phones. Based on the research described in \autoref{cha:Research}, the viability of constructing a system, which is able to use more than one biometric trait by fusing information, is confirmed. Therefore, a natural part of the investigation will be to examine, to which extend, utilising information fusion will result in an improved accuracy. The central problems in question is hereby:\\\\
+\textit{\textbf{How well can identity verification be performed on \gls{vl} smart phone images of iris and face, and to which extend can the performance be improved by information fusion?}}
+
+\section{Delimitation}\label{sec:deliproject}
+As stated in \autoref{ch:intro}, the project seeks to make an end solution viable for mobile devices. Although such devices are object to constrains in regard to computational power available for algorithms for identity recognition, this will be disregarded during the project work. This is because the focus of the work is to simply inspect methods and their performance. Equivalently, the work will not be concerned with computation time or recognition times experienced by a potential user of a concluded system. This work merely serves as a proof of concept.
+
+\section{Requirements}\label{ch:req}
+To be able to measure the quality of the identification method made, a set of requirements are presented. These are produced on the background of knowledge presented in \autoref{cha:Research}.
+
+The context of the work carried out is identity verification on smart phones. Therefore, there are certain requirements to the system. Although some smartphones nowadays are equipped with \gls{nir} cameras not all are. Therefore, it would be beneficial if successful identity verification proved possible when using the normal \gls{vl} front camera, which most smartphones are equipped with, as this requires less sensors and thus is cheaper for the smart phone manufacturers. From these considerations two requirements for the system arises. The input images used for the identification has to be \gls{vl} images, and furthermore, the images have to have a resolution, which is low enough to represent the images that would be captured with a smart phone front camera.
+
+Furthermore, the system has to identify using one of the biometric modalities face, or iris, or both, since those are the most reliable non-invasive biometric traits, which can be obtained by a smart phone and especially with a \gls{vl} camera. 
+
+The designed solutions must have an accuracy comparable to the ones of state of the art solutions and commercial systems presented in \autoref{cha:Research}. The accuracies presented are generally at $99\%$ or above, which means the solution implemented in this project must have an accuracy equal to or above this accuracy as well. 
+
+The solution for identification based on fusion of the two modalities has to have an accuracy higher than the accuracies of the system based on the individual modalities for it to be accepted. If the accuracy is the same, there is no gain in the increased computational complexity of a multimodal system and as a result the system will be forsaken.\\
+%As the project seeks to make a better verification for security measures, the fused networks should perform better than that of the non-fused.
+
+In the following chapters the specifications and requirements described in this chapter are used as directives for the work carried out with investigating and designing identity verification systems. The work is done with the aim of investigating how an accuracy as high as possible can be achieved under the conditions specified in \autoref{ch:req}. 
+

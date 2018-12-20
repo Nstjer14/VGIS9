@@ -39,7 +39,7 @@ A decision tree consists of split nodes and leaves. The split nodes evaluate eac
 \cite{Gall2012} uses a random forest for multi class object detection. A random forest consist of a set amount of decision trees.
 The detection problem becomes a distribution estimation problem, where the random forests allow to learn features and descriptors that are optimal for estimating the distributions with low uncertainty. These distributions may be desirable to restrict to Gaussians or Gaussian Mixture Models \citep{Gall2012}.
 
-The amount of training data is the most crucial parameter for detection accuracy, as random forests are designed to handle large amounts of data. If it is small training sets extra verification steps may be needed \citep{Gall2018}.
+The amount of training data is the most crucial parameter for detection accuracy, as random forests are designed to handle large amounts of data. If it is small training sets extra verification steps may be needed \citep{Gall2012}.
 
 \subsection{Tracking}
-General object tracking is tracking an object in a video or a sequence of images.
+General object tracking is tracking an object in a video or a sequence of images, in form of e.g. the problem of estimating the trajectory of an object in the image plane as the object moves in the image sequence. This means, that the tracker consistently labels the tracked objects in the different frames of the video \citep{Yilmaz2006}. Situations often present tracking of more than one object at the time where a multi object tracking framework is needed.

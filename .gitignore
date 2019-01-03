@@ -143,11 +143,9 @@ sympy-plots-for-*.tex/
 
 
 # ISE webpack
-*.log
 *.svf
 *.scr
 *.cmd
-*.bak
 *.lso
 *.elf
 *.ace
@@ -184,9 +182,7 @@ par_usage_statistics.html
 *.ng*
 *.bgn
 *.bld
-*.cmd_log
 *.drc
-*.lso
 *.pcf
 *.*twx
 *.xrpt
@@ -266,3 +262,8 @@ database_segmented.mat
 normalised_iris/
 
 Project/code/saved_models/iris_cnn_test.h5
+/Report/bib/VGIS8-Face Recognition.bib
+/Report/bib/VGIS8-Information Fusion.bib
+/Report/bib/VGIS8-Iris Recognition.bib
+/Report/bib/VGIS8-New Folder.bib
+/Report/bib/VGIS8.bib

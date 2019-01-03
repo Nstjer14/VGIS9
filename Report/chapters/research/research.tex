@@ -52,9 +52,21 @@ In order to utilise three dimensional video, another dimension needs to be added
 \subsubsection{Object Pose}
 For a robot to be able to interact with an object, more information than the position in an image is needed. The orientation of the object is also important. \cite{Xiang2017} seeks to estimate the six degrees object pose with the network, PoseCNN. PoseCNN, is trained using RGB-D scans of 21 objects and evaluated on both the YCB dataset and the OccludedLINEMOD dataset, to evaluate the robustness towards occlusions. The network has three different tasks done in order to estimate a six dimensional pose. Firstly a semantic labelling, secondly a 3D translation estimation, and thirdly a 3D rotation regression \citep{Xiang2017}. This is illustrated in \autoref{fig:poseCNN}.
 
-\begin{figure}
+\begin{figure}[H]
 	\centering
-	\includegraphics[width=0.8\textwidth]{figures/poseCNN}
+	\includegraphics[width=0.55\textwidth]{figures/poseCNN}
 	\caption{Overview of the three steps performed in by the PoseCNN \citep{Xiang2017}}
 	\label{fig:poseCNN}
+\end{figure}
+
+\subsection{Grasping Planning}
+For a robot to interact with an object a grasping point on the tracked object is necessary. \cite{Mahler2017} proposes a solution of grasping planning in two different solutions based on the same deep learning model called \gls{gqcnn}. They have created their own dataset with $1\,500$ 3D object models fro training the network. Before training of the network for the second iteration Dex-Net 2.0, \cite{Mahler2017} analyse a dataset of $6.7$ million point clouds with grasping options which has been generated from 3D models in randomised poses on a table. For the third iteration, Dex-Net 3.0 is generated. $2.8$ million point clouds with suction grasps, and grasps robustness labels on $1\,500$ 3D objects models. The database is used to train the \gls{gqcnn} to classify suction grasp robustness. This is done with a model of the pneumatic suction gripper used with the robot when testing \citep{Dexnet3}. 
+
+Dex-Net 2.0 is tested 3D printed objects designed to challenge the parallel gripper used in this iteration and 10 household objects \citep{Mahler2017}. Dex-Net 3.0 is tested on objects divided into three different categories of basic, typical, and adversarial. Both the object categories and the performance in the different groups are shown in \autoref{fig:dexnet3}.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\textwidth]{figures/dexnet3}
+	\caption{Dex-Net 3.0 object categories and performance. Basic (e.g. prismatic objects), Typical, and Adversarial \citep{Dexnet3}}
+	\label{fig:dexnet3}
 \end{figure}

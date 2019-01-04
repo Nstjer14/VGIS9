@@ -1,2 +1,21 @@
 \chapter{Project Specification}\label{ch:projecspec}\glsresetall
-This chapter specifies the scope of the project. It outlines and delimits the goals for the work conducted, as well as setting the requirements for the solutions implemented during the project work. 
+This chapter specifies the scope of the project. It outlines and delimits the goals for the work conducted, as well as setting the requirements for the solutions implemented during the project work. \\
+
+The two objectives, first one set as an open objective the second closed, given by the company was originally:
+\begin{itemize}
+	\item Improve depth quality of commodity RGB-D cameras
+	\item 6 DOF object pose tracking of known objects using 3D cameras (for robotic picking of groceries)
+\end{itemize}
+
+The primary objective was the second and closed objective, to implement a 6 DOF object pose tracking.
+As a part of smaller company other tasks also needed work, which took time from the amount of time for the primary objective. 
+
+Other tasks were:
+\begin{itemize}
+	\item Train a YOLOv3 network for object detection in a Python implementation
+	\item Gstreamer command testing and configuration
+	\item Setting up a docker for testing
+	\item Create small test setup for matrix storage in C++
+\end{itemize}
+
+Working on these other tasks meant the main task got scaled down due to time constraints. Instead, the first steps of the object pose tracking became essential for showing potential in the idea. This mainly focused on finding an already working solution of object detection and grasping point and showing a real time object detection solution for groceries.

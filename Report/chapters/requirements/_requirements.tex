@@ -1,15 +1,17 @@
 \chapter{Project Specification}\label{ch:projecspec}\glsresetall
 This chapter specifies the scope of the project. It outlines and delimits the goals for the work conducted, as well as setting the requirements for the solutions implemented during the project work. \\
 
+\section{Problem Statement}
 The two objectives, first one set as an open objective the second closed, given by the company was originally:
 \begin{itemize}
 	\item Improve depth quality of commodity RGB-D cameras
-	\item 6 DOF object pose tracking of known objects using 3D cameras (for robotic picking of groceries)
+	\item 6 \gls{dof} object pose tracking of known objects using 3D cameras (for robotic picking of groceries)
 \end{itemize}
 
 The primary objective was the second and closed objective, to implement a 6 DOF object pose tracking.
 As a part of smaller company other tasks also needed work, which took time from the amount of time for the primary objective. 
 
+\section{Secondary Objectives}
 Other tasks were:
 \begin{itemize}
 	\item Train a YOLOv3 network for object detection in a Python implementation
@@ -19,3 +21,9 @@ Other tasks were:
 \end{itemize}
 
 Working on these other tasks meant the main task got scaled down due to time constraints. Instead, the first steps of the object pose tracking became essential for showing potential in the idea. This mainly focused on finding an already working solution of object detection and grasping point and showing a real time object detection solution for groceries.
+
+\section{Task specification}
+The main task, performing 6 \gls{dof} object pose tracking, is to develop skills for a robot to be able to work in a regular supermarket setting picking from shelves set up as in a supermarket. This requires a vision application able to do object recognition, pose estimation, and be able to determine the most viable grasping point on the desired object. 
+This is supposed to be done with 3D video stream, combining RGB and depth video. 
+
+The dataset will in the end depend on the application, as it must be of the exact groceries offered in the supermarket at hand, and should be created by the developer. But as a proof of concept, a fulfilling dataset online can be used.

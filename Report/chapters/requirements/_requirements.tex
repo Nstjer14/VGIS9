@@ -1,4 +1,4 @@
-\chapter{Project Specification}\label{ch:projecspec}\glsresetall
+\chapter{Project Specification}\label{ch:projectspec}\glsresetall
 This chapter specifies the scope of the project. It outlines and delimits the goals for the work conducted, as well as setting the requirements for the solutions implemented during the project work. \\
 
 \section{Problem Statement}
@@ -14,16 +14,42 @@ As a part of smaller company other tasks also needed work, which took time from 
 \section{Secondary Objectives}
 Other tasks were:
 \begin{itemize}
-	\item Train a YOLOv3 network for object detection in a Python implementation
-	\item Gstreamer command testing and configuration
-	\item Setting up a docker for testing
+	\item Train a \gls{yolo}v3 network for object detection in a Tensorflow implementation
 	\item Create small test setup for matrix storage in C++
+	\item GStreamer command testing and configuration
+	\item Setting up a docker for testing
 \end{itemize}
 
-Working on these other tasks meant the main task got scaled down due to time constraints. Instead, the first steps of the object pose tracking became essential for showing potential in the idea. This mainly focused on finding an already working solution of object detection and grasping point and showing a real time object detection solution for groceries.
-
 \section{Task specification}
+Specification of the tasks at hand is necessary to be able to understand what is needed to complete the assignments given.
+
+\subsection{Main Task}
 The main task, performing 6 \gls{dof} object pose tracking, is to develop skills for a robot to be able to work in a regular supermarket setting picking from shelves set up as in a supermarket. This requires a vision application able to do object recognition, pose estimation, and be able to determine the most viable grasping point on the desired object. 
 This is supposed to be done with 3D video stream, combining RGB and depth video. 
 
 The dataset will in the end depend on the application, as it must be of the exact groceries offered in the supermarket at hand, and should be created by the developer. But as a proof of concept, a fulfilling dataset online can be used.
+
+Working on the other tasks meant the main task got scaled down due to time constraints. Instead, the first steps of the object pose tracking became essential for showing potential in the idea. This mainly focused on finding an already working solution of object detection and grasping point and showing a real time object detection solution for groceries.
+
+\subsection{Secondary Tasks}
+The secondary tasks are smaller tasks assigned in the company. As the company is of smaller size, help is often needed on other tasks to finish a sprint or meet a deadline, where all help is needed.
+
+\subsubsection{YOLOv3 Tensorflow Implementation}
+As part of participation in Robot Union, a robotics acceleration program, the company asked for a small real time object detection solution with \gls{yolo} working on Tensorflow. The solution is supposed to work on an industrial objects database containing screws or fuses and extension boxes and objects similar to those.
+
+The task had a strict deadline as the idea was to show the object detection at the first Robot Union presentation, which was rather close to the time of requesting the implementation.
+
+\subsubsection{Matrix Storage}
+The description of the task reads: \textit{As the developer I want to automate the testing of the basic performance of the camera compression algorithm. This shall be repeatable across multiple platforms.}
+
+This is the description of the entire task and the description was added after the task was given, as the task evolved to include more work than first described. The task given, was to be able to store raw video data as matrices in a txt or csv file.
+
+\subsubsection{GStreamer Pipeline Configuration}
+As a part of the compression software being sold with an Nvidia TX2, a streaming solution for both storage and preview of the video data is necessary. This is done with GStreamer. The task given, was to store the received RTP packages as compressed video data, be it RGB or depth video. The video needed to be played back at, at least 30 \gls{fps}.
+
+The task also included the option to play the video directly from the stream, which meant decompression and then playback, also at 30 \gls{fps}. Lastly the implementation also needed the option to open the stored compressed file and displaying it to the user.
+
+\subsubsection{Docker Set Up}
+The task was to implement the GStreamer pipeline from the previous task in a docker. This should work on a barebone ROS Balena image, as ROS was used connect the different modules using ROS nodes. 
+
+As Docker was new territory this task also included learning to set up a docker service, which meant, the task took longer than for an experienced Docker programmer.

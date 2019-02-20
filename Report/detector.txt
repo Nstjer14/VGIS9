@@ -1,0 +1,65 @@
+class_id = 0, name = adelholzener_alpenquelle_classic_075, ap = 45.09 %
+class_id = 1, name = adelholzener_alpenquelle_naturell_075, ap = 63.64 %
+class_id = 2, name = adelholzener_classic_bio_apfelschorle_02, ap = 53.34 %
+class_id = 3, name = adelholzener_classic_naturell_02, ap = 53.53 % 
+class_id = 4, name = adelholzener_gourmet_mineralwasser_02, ap = 52.99 %
+class_id = 5, name = augustiner_lagerbraeu_hell_05, ap = 62.81 %
+class_id = 6, name = augustiner_weissbier_05, ap = 53.61 %
+class_id = 7, name = coca_cola_05, ap = 53.49 %
+class_id = 8, name = coca_cola_light_05, ap = 44.93 %
+class_id = 9, name = suntory_gokuri_lemonade, ap = 54.38 %
+class_id = 10, name = tegernseer_hell_03, ap = 53.03 %
+class_id = 11, name = corny_nussvoll, ap = 44.84 %
+class_id = 12, name = corny_nussvoll_single, ap = 45.24 %
+class_id = 13, name = corny_schoko_banane, ap = 44.30 %
+class_id = 14, name = corny_schoko_banane_single, ap = 54.49 %
+class_id = 15, name = dr_oetker_vitalis_knuspermuesli_klassisch, ap = 39.73 %
+class_id = 16, name = koelln_muesli_fruechte, ap = 36.93 %
+class_id = 17, name = koelln_muesli_schoko, ap = 51.51 %
+class_id = 18, name = caona_cocoa, ap = 20.09 %
+class_id = 19, name = cocoba_cocoa, ap = 44.42 %
+class_id = 20, name = cafe_wunderbar_espresso, ap = 33.58 %
+class_id = 21, name = douwe_egberts_professional_ground_coffee, ap = 43.44 %
+class_id = 22, name = gepa_bio_caffe_crema, ap = 33.86 %
+class_id = 23, name = gepa_italienischer_bio_espresso, ap = 43.60 %
+class_id = 24, name = apple_braeburn_bundle, ap = 44.48 %
+class_id = 25, name = apple_golden_delicious, ap = 54.40 %
+class_id = 26, name = apple_granny_smith, ap = 54.33 %
+class_id = 27, name = apple_red_boskoop, ap = 54.44 %
+class_id = 28, name = avocado, ap = 54.46 %
+class_id = 29, name = banana_bundle, ap = 44.71 %
+class_id = 30, name = banana_single, ap = 54.24 %
+class_id = 31, name = clementine, ap = 53.37 %
+class_id = 32, name = clementine_single, ap = 54.25 %
+class_id = 33, name = grapes_green_sugraone_seedless, ap = 61.98 %
+class_id = 34, name = grapes_sweet_celebration_seedless, ap = 53.65 %
+class_id = 35, name = kiwi, ap = 54.52 %
+class_id = 36, name = orange_single, ap = 63.40 %
+class_id = 37, name = oranges, ap = 47.80 %
+class_id = 38, name = pear, ap = 54.55 %
+class_id = 39, name = pasta_reggia_elicoidali, ap = 39.05 %
+class_id = 40, name = pasta_reggia_fusilli, ap = 37.67 %
+class_id = 41, name = pasta_reggia_spaghetti, ap = 38.51 %
+class_id = 42, name = franken_tafelreiniger, ap = 45.17 %
+class_id = 43, name = pelikan_tintenpatrone_canon, ap = 54.30 %
+class_id = 44, name = ethiquable_gruener_tee_ceylon, ap = 44.71 %
+class_id = 45, name = gepa_bio_und_fair_fencheltee, ap = 44.53 %
+class_id = 46, name = gepa_bio_und_fair_kamillentee, ap = 54.55 %
+class_id = 47, name = gepa_bio_und_fair_kraeuterteemischung, ap = 53.48 %
+class_id = 48, name = gepa_bio_und_fair_pfefferminztee, ap = 53.61 %
+class_id = 49, name = gepa_bio_und_fair_rooibostee, ap = 53.80 %
+class_id = 50, name = kilimanjaro_tea_earl_grey, ap = 42.89 %
+class_id = 51, name = cucumber, ap = 42.79 %
+class_id = 52, name = carrot, ap = 54.17 %
+class_id = 53, name = corn_salad, ap = 38.45 %
+class_id = 54, name = lettuce, ap = 36.87 %
+class_id = 55, name = vine_tomatoes, ap = 34.25 %
+class_id = 56, name = roma_vine_tomatoes, ap = 45.22 %
+class_id = 57, name = rocket, ap = 38.59 %
+class_id = 58, name = salad_iceberg, ap = 52.09 %
+class_id = 59, name = zucchini, ap = 54.17 %
+
+for thresh = 0.25, precision = 0.86, recall = 0.51, F1-score = 0.64
+for thresh = 0.25, TP = 19429, FP = 3039, FN = 18837, average IoU = 68.63 %
+
+mean average precision (mAP) = 0.481719, or 48.17 % 

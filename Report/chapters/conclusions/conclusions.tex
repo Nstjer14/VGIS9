@@ -1,1 +1,16 @@
 \chapter{Conclusion}\label{ch:conclusion}\glsresetall
+During the internship the main task has been to develop a system with;\\
+
+\textit{6 \gls{dof} object pose tracking of known objects using 3D cameras (for robotic picking of groceries).}\\
+
+Due to time constraints this main task was decreased to show the possibility of implementing real time object detection with a grocery dataset and showing a solution of grasping estimation on objects with deep learning.
+
+The Dex-Net implementations show that it is possible to estimate grasping points of objects when the right model is applied to a big dataset, even with synthetic data. The robot is able to evaluate the \gls{rgbd} input data after training and can estimate a successful grasping point with high precision.
+
+The real time object detection is made using \gls{yolo}v3, as this network is known for being a fast, lightweight network. The dataset used is a grocery dataset with 60 different object classes including annotations. The mean average precision achieved with the network is $ 48.17\% $ on the test images. This precision has proven too low to handle the test video, showing a lot of false positives and in general low precision on each object class, as seen in \autoref{ch:D2S_prec}. A proposed solution to increase precision, is to add more data by augmenting the training images with several different methods.
+
+Being in a company meant several tasks instead of just one project. The other tasks lead to learning new skills in programming and IT knowledge. The tasks was assigned due to a deadline, which meant they had highest priority, taking away time from the main project.
+
+Due to being the sole employee working with computer vision, discussing solutions was not always possible because of the lack of insight in the subject. 
+
+The internship has shown how it is being a part of a company and has given some experience in working with people outside of the university programme. It has also been testing the various skills learned and made for improvement in several subjects. It has furthermore given inspiration to future plans after the university.

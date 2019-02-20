@@ -1,1 +1,27 @@
 \chapter{Evaluation}
+This chapter is split in two evaluations. One is of the results shown in \autoref{ch:implementation}, the other is the internship and working in the company.
+\section{Result Evaluation}
+There are two different object detection results presented in \autoref{ch:implementation}, both are made using \gls{yolo} but with two different implementations and datasets, and will be evaluated separately.
+
+\subsection{Real Time Object Detection}
+The results show, an average loss of $ 0.7171 $ which can prove to be too high, as seen in the resulting video test screenshots. Although the results show the ability to do object detection on images from the dataset used for training.
+
+With a mean average precision of $ 48.17\% $ the network needs more training even though the loss curve is flattening. This can be done both by doing more iterations or by adding more data. Often, by adding more data for the network to train on, accuracy can be increased. This can be done using data augmentation e.g. rotating, flipping, occluding, and cutting each image. by doing this the data can be increased ten fold or more. Another reason to add more data and not train longer is the amount of instability observed at $ 83\,000 $ iterations, which could lead to worse results.
+
+\subsection{YOLOv3 Tensorflow Implementation}
+When being close enough to the desired object, detection is successful, but with a somewhat low certainty. This can show some pitfalls towards smaller objects in the trained network. The false positives show issues with training, but they also show issues with labels. The network is trained with the \gls{yolo} weights trained on the COCO dataset, which might have introduced the label issues with the way the weights are used in this implementation of \gls{yolo}.
+
+Another issue can, once again, be the amount of data available and could be increased by doing data augmentation.
+
+\section{Internship Evaluation}
+Working in Aivero I was the only one on the team working with computer vision and deep learning. Other employees had some experience in the area, but had other areas to mainly focus on. This meant that I sometimes was not sure on what approach to choose and could not always seek help from a more experienced developer. But sparring with co-workers often lead to ideas on solutions. 
+
+As a part of the team, I also participated in daily SCRUM stand up meetings to summarise the work done and the planned work to be done. Once a week a company wide stand up was held to get insight into what everyone were doing.
+
+From September through December, we were mainly two people in the office. With a total of four people working in the office with two being students, only working part time. Being this few helps build a more friendly relationship to each other, which can make it easier to ask for help or solve potential issues.
+
+My role in the company was mainly to develop the 'robotic skills' which was the computer vision of doing object pose estimation and tracking. Besides this I helped with smaller tasks when needed. Due to a deadline in a product sale, all hands were needed for that project to deliver on time. 
+
+In November, from the 18th to the 20th, four of the five Danish employees, including myself, went to Stavanger, Norway, to meet the Norwegian part of the company. This was both to do some team building and getting to know each other, but also planning a roadmap for the company in the nearest future. This was a really nice experience, which definitely made it feel like being a part of a team.
+
+The internship has shown me how it is to be a part of a company and how a deadline can influence your own work. It has helped building a larger skill set and introduced me to contacts, other students, and given an idea of what to do when graduating.

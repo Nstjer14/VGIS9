@@ -1,0 +1,2660 @@
+FPS:74.9
+Objects:
+
+banana_single: 69%
+apple_red_boskoop: 32%
+
+ cvWriteFrame
+
+FPS:55.8
+Objects:
+
+banana_single: 52%
+
+ cvWriteFrame
+
+FPS:49.5
+Objects:
+
+banana_single: 35%
+
+ cvWriteFrame
+
+FPS:65.7
+Objects:
+
+banana_single: 30%
+apple_golden_delicious: 64%
+
+ cvWriteFrame
+
+FPS:65.0
+Objects:
+
+banana_single: 47%
+apple_golden_delicious: 85%
+
+ cvWriteFrame
+
+FPS:73.6
+Objects:
+
+banana_single: 37%
+apple_golden_delicious: 92%
+
+ cvWriteFrame
+
+FPS:60.1
+Objects:
+
+banana_bundle: 38% banana_single: 38%
+apple_golden_delicious: 49%
+
+ cvWriteFrame
+
+FPS:64.7
+Objects:
+
+banana_bundle: 47% banana_single: 51%
+apple_red_boskoop: 54%
+
+ cvWriteFrame
+
+FPS:60.1
+Objects:
+
+banana_single: 71%
+apple_red_boskoop: 42%
+
+ cvWriteFrame
+
+FPS:57.0
+Objects:
+
+banana_single: 69%
+apple_red_boskoop: 59%
+
+ cvWriteFrame
+
+FPS:57.9
+Objects:
+
+banana_single: 80%
+apple_golden_delicious: 28% apple_red_boskoop: 37%
+
+ cvWriteFrame
+
+FPS:61.9
+Objects:
+
+banana_single: 86%
+apple_red_boskoop: 73%
+
+ cvWriteFrame
+
+FPS:67.1
+Objects:
+
+banana_single: 82%
+apple_red_boskoop: 55%
+
+ cvWriteFrame
+
+FPS:58.9
+Objects:
+
+banana_single: 78%
+apple_red_boskoop: 69%
+
+ cvWriteFrame
+
+FPS:68.5
+Objects:
+
+banana_single: 76%
+
+ cvWriteFrame
+
+FPS:52.2
+Objects:
+
+banana_single: 69%
+
+ cvWriteFrame
+
+FPS:45.6
+Objects:
+
+banana_single: 68%
+
+ cvWriteFrame
+
+FPS:51.2
+Objects:
+
+banana_single: 34%
+banana_single: 28%
+
+ cvWriteFrame
+
+FPS:54.0
+Objects:
+
+banana_single: 61%
+
+ cvWriteFrame
+
+FPS:55.7
+Objects:
+
+banana_single: 61%
+apple_red_boskoop: 40%
+
+ cvWriteFrame
+
+FPS:51.6
+Objects:
+
+banana_single: 66%
+
+ cvWriteFrame
+
+FPS:49.4
+Objects:
+
+banana_bundle: 34% banana_single: 31%
+apple_red_boskoop: 31%
+
+ cvWriteFrame
+
+FPS:50.7
+Objects:
+
+banana_bundle: 43% banana_single: 49%
+apple_red_boskoop: 43%
+
+ cvWriteFrame
+
+FPS:48.4
+Objects:
+
+banana_bundle: 26% banana_single: 68%
+
+ cvWriteFrame
+
+FPS:41.1
+Objects:
+
+banana_single: 65%
+
+ cvWriteFrame
+
+FPS:38.4
+Objects:
+
+banana_single: 69%
+banana_single: 39%
+
+ cvWriteFrame
+
+FPS:53.8
+Objects:
+
+banana_single: 81%
+banana_single: 44%
+
+ cvWriteFrame
+
+FPS:72.5
+Objects:
+
+banana_single: 79%
+apple_red_boskoop: 46%
+
+ cvWriteFrame
+
+FPS:52.9
+Objects:
+
+banana_single: 76%
+apple_red_boskoop: 38%
+
+ cvWriteFrame
+
+FPS:58.8
+Objects:
+
+banana_single: 77%
+apple_red_boskoop: 60%
+
+ cvWriteFrame
+
+FPS:57.8
+Objects:
+
+banana_single: 81%
+apple_red_boskoop: 80%
+
+ cvWriteFrame
+
+FPS:48.6
+Objects:
+
+banana_single: 81%
+apple_red_boskoop: 62%
+
+ cvWriteFrame
+
+FPS:52.9
+Objects:
+
+banana_single: 82%
+apple_red_boskoop: 50%
+
+ cvWriteFrame
+
+FPS:49.8
+Objects:
+
+banana_single: 85%
+apple_red_boskoop: 33%
+
+ cvWriteFrame
+
+FPS:39.8
+Objects:
+
+banana_single: 81%
+
+ cvWriteFrame
+
+FPS:52.5
+Objects:
+
+banana_single: 77%
+
+ cvWriteFrame
+
+FPS:49.7
+Objects:
+
+banana_single: 50%
+
+ cvWriteFrame
+
+FPS:51.4
+Objects:
+
+banana_single: 58%
+
+ cvWriteFrame
+
+FPS:48.7
+Objects:
+
+banana_single: 59%
+banana_bundle: 25%
+
+ cvWriteFrame
+
+FPS:72.8
+Objects:
+
+banana_single: 56%
+banana_single: 29%
+
+ cvWriteFrame
+
+FPS:48.7
+Objects:
+
+banana_single: 49%
+
+ cvWriteFrame
+
+FPS:63.9
+Objects:
+
+banana_single: 43%
+
+ cvWriteFrame
+
+FPS:54.6
+Objects:
+
+banana_single: 35%
+apple_red_boskoop: 53%
+
+ cvWriteFrame
+
+FPS:49.1
+Objects:
+
+banana_single: 49%
+banana_single: 28%
+apple_red_boskoop: 46%
+
+ cvWriteFrame
+
+FPS:37.2
+Objects:
+
+banana_single: 55%
+
+ cvWriteFrame
+
+FPS:51.1
+Objects:
+
+banana_single: 43%
+
+ cvWriteFrame
+
+FPS:61.6
+Objects:
+
+banana_single: 54%
+
+ cvWriteFrame
+
+FPS:58.8
+Objects:
+
+banana_single: 51%
+
+ cvWriteFrame
+
+FPS:52.6
+Objects:
+
+banana_single: 58%
+
+ cvWriteFrame
+
+FPS:47.1
+Objects:
+
+banana_single: 51%
+
+ cvWriteFrame
+
+FPS:44.8
+Objects:
+
+banana_single: 38%
+
+ cvWriteFrame
+
+FPS:55.2
+Objects:
+
+banana_single: 42%
+
+ cvWriteFrame
+
+FPS:53.1
+Objects:
+
+ cvWriteFrame
+
+FPS:56.6
+Objects:
+
+ cvWriteFrame
+
+FPS:53.4
+Objects:
+
+ cvWriteFrame
+
+FPS:51.3
+Objects:
+
+ cvWriteFrame
+
+FPS:48.8
+Objects:
+
+ cvWriteFrame
+
+FPS:45.6
+Objects:
+
+ cvWriteFrame
+
+FPS:50.2
+Objects:
+
+banana_bundle: 52%
+
+ cvWriteFrame
+
+FPS:47.7
+Objects:
+
+banana_bundle: 36%
+
+ cvWriteFrame
+
+FPS:52.9
+Objects:
+
+ cvWriteFrame
+
+FPS:47.5
+Objects:
+
+ cvWriteFrame
+
+FPS:51.1
+Objects:
+
+apple_red_boskoop: 27%
+
+ cvWriteFrame
+
+FPS:51.7
+Objects:
+
+ cvWriteFrame
+
+FPS:48.8
+Objects:
+
+ cvWriteFrame
+
+FPS:40.5
+Objects:
+
+banana_bundle: 26%
+
+ cvWriteFrame
+
+FPS:48.5
+Objects:
+
+ cvWriteFrame
+
+FPS:43.9
+Objects:
+
+apple_red_boskoop: 25%
+
+ cvWriteFrame
+
+FPS:61.9
+Objects:
+
+apple_red_boskoop: 29%
+
+ cvWriteFrame
+
+FPS:63.0
+Objects:
+
+banana_single: 33%
+
+ cvWriteFrame
+
+FPS:60.3
+Objects:
+
+ cvWriteFrame
+
+FPS:73.1
+Objects:
+
+ cvWriteFrame
+
+FPS:56.1
+Objects:
+
+ cvWriteFrame
+
+FPS:51.7
+Objects:
+
+banana_single: 27%
+
+ cvWriteFrame
+
+FPS:48.3
+Objects:
+
+banana_single: 44%
+
+ cvWriteFrame
+
+FPS:43.7
+Objects:
+
+banana_single: 50%
+
+ cvWriteFrame
+
+FPS:45.9
+Objects:
+
+banana_single: 29%
+
+ cvWriteFrame
+
+FPS:47.6
+Objects:
+
+banana_single: 26%
+
+ cvWriteFrame
+
+FPS:52.3
+Objects:
+
+ cvWriteFrame
+
+FPS:56.0
+Objects:
+
+ cvWriteFrame
+
+FPS:50.3
+Objects:
+
+banana_single: 32%
+
+ cvWriteFrame
+
+FPS:52.7
+Objects:
+
+banana_single: 38%
+
+ cvWriteFrame
+
+FPS:48.2
+Objects:
+
+ cvWriteFrame
+
+FPS:58.5
+Objects:
+
+banana_single: 27%
+
+ cvWriteFrame
+
+FPS:41.9
+Objects:
+
+banana_single: 26%
+
+ cvWriteFrame
+
+FPS:56.1
+Objects:
+
+banana_single: 33%
+
+ cvWriteFrame
+
+FPS:51.2
+Objects:
+
+banana_single: 39%
+
+ cvWriteFrame
+
+FPS:55.1
+Objects:
+
+banana_single: 48%
+
+ cvWriteFrame
+
+FPS:43.2
+Objects:
+
+banana_single: 31%
+
+ cvWriteFrame
+
+FPS:49.6
+Objects:
+
+banana_single: 36%
+
+ cvWriteFrame
+
+FPS:46.1
+Objects:
+
+apple_golden_delicious: 30%
+
+ cvWriteFrame
+
+FPS:47.3
+Objects:
+
+banana_single: 40%
+
+ cvWriteFrame
+
+FPS:47.9
+Objects:
+
+banana_single: 31%
+
+ cvWriteFrame
+
+FPS:42.9
+Objects:
+
+ cvWriteFrame
+
+FPS:49.4
+Objects:
+
+banana_single: 38%
+
+ cvWriteFrame
+
+FPS:53.7
+Objects:
+
+ cvWriteFrame
+
+FPS:57.7
+Objects:
+
+ cvWriteFrame
+
+FPS:52.8
+Objects:
+
+ cvWriteFrame
+
+FPS:39.2
+Objects:
+
+ cvWriteFrame
+
+FPS:45.7
+Objects:
+
+apple_golden_delicious: 25%
+
+ cvWriteFrame
+
+FPS:65.0
+Objects:
+
+banana_single: 29%
+apple_golden_delicious: 46%
+
+ cvWriteFrame
+
+FPS:55.9
+Objects:
+
+banana_single: 26%
+apple_golden_delicious: 50%
+
+ cvWriteFrame
+
+FPS:61.8
+Objects:
+
+apple_golden_delicious: 56%
+
+ cvWriteFrame
+
+FPS:55.1
+Objects:
+
+apple_golden_delicious: 50%
+
+ cvWriteFrame
+
+FPS:68.7
+Objects:
+
+apple_golden_delicious: 31%
+
+ cvWriteFrame
+
+FPS:60.6
+Objects:
+
+apple_golden_delicious: 43%
+
+ cvWriteFrame
+
+FPS:39.9
+Objects:
+
+apple_golden_delicious: 36%
+
+ cvWriteFrame
+
+FPS:66.7
+Objects:
+
+ cvWriteFrame
+
+FPS:65.7
+Objects:
+
+ cvWriteFrame
+
+FPS:72.3
+Objects:
+
+ cvWriteFrame
+
+FPS:57.4
+Objects:
+
+apple_golden_delicious: 34%
+
+ cvWriteFrame
+
+FPS:54.6
+Objects:
+
+apple_golden_delicious: 28%
+
+ cvWriteFrame
+
+FPS:53.5
+Objects:
+
+apple_golden_delicious: 37%
+
+ cvWriteFrame
+
+FPS:45.4
+Objects:
+
+apple_golden_delicious: 48%
+
+ cvWriteFrame
+
+FPS:49.0
+Objects:
+
+apple_golden_delicious: 37%
+
+ cvWriteFrame
+
+FPS:43.7
+Objects:
+
+apple_golden_delicious: 32%
+
+ cvWriteFrame
+
+FPS:48.3
+Objects:
+
+apple_golden_delicious: 33%
+
+ cvWriteFrame
+
+FPS:65.7
+Objects:
+
+apple_golden_delicious: 45%
+
+ cvWriteFrame
+
+FPS:53.9
+Objects:
+
+apple_golden_delicious: 50%
+
+ cvWriteFrame
+
+FPS:61.2
+Objects:
+
+apple_golden_delicious: 48%
+
+ cvWriteFrame
+
+FPS:57.9
+Objects:
+
+apple_golden_delicious: 46%
+
+ cvWriteFrame
+
+FPS:57.0
+Objects:
+
+apple_golden_delicious: 60%
+
+ cvWriteFrame
+
+FPS:51.4
+Objects:
+
+apple_golden_delicious: 72%
+
+ cvWriteFrame
+
+FPS:57.4
+Objects:
+
+apple_golden_delicious: 71%
+
+ cvWriteFrame
+
+FPS:55.8
+Objects:
+
+apple_golden_delicious: 50%
+
+ cvWriteFrame
+
+FPS:61.8
+Objects:
+
+ cvWriteFrame
+
+FPS:52.5
+Objects:
+
+apple_golden_delicious: 37%
+
+ cvWriteFrame
+
+FPS:49.1
+Objects:
+
+apple_golden_delicious: 58%
+
+ cvWriteFrame
+
+FPS:53.1
+Objects:
+
+apple_golden_delicious: 57%
+
+ cvWriteFrame
+
+FPS:45.0
+Objects:
+
+apple_golden_delicious: 47%
+
+ cvWriteFrame
+
+FPS:67.7
+Objects:
+
+ cvWriteFrame
+
+FPS:70.1
+Objects:
+
+apple_golden_delicious: 31%
+
+ cvWriteFrame
+
+FPS:71.4
+Objects:
+
+apple_golden_delicious: 49%
+
+ cvWriteFrame
+
+FPS:55.9
+Objects:
+
+apple_golden_delicious: 56%
+
+ cvWriteFrame
+
+FPS:64.7
+Objects:
+
+apple_golden_delicious: 62%
+
+ cvWriteFrame
+
+FPS:68.3
+Objects:
+
+apple_golden_delicious: 46%
+
+ cvWriteFrame
+
+FPS:62.0
+Objects:
+
+ cvWriteFrame
+
+FPS:45.2
+Objects:
+
+apple_golden_delicious: 63%
+
+ cvWriteFrame
+
+FPS:45.1
+Objects:
+
+apple_golden_delicious: 50%
+
+ cvWriteFrame
+
+FPS:45.7
+Objects:
+
+apple_golden_delicious: 52%
+
+ cvWriteFrame
+
+FPS:50.3
+Objects:
+
+apple_golden_delicious: 26%
+
+ cvWriteFrame
+
+FPS:47.4
+Objects:
+
+ cvWriteFrame
+
+FPS:46.4
+Objects:
+
+ cvWriteFrame
+
+FPS:43.0
+Objects:
+
+ cvWriteFrame
+
+FPS:68.8
+Objects:
+
+ cvWriteFrame
+
+FPS:58.6
+Objects:
+
+ cvWriteFrame
+
+FPS:44.9
+Objects:
+
+ cvWriteFrame
+
+FPS:69.1
+Objects:
+
+ cvWriteFrame
+
+FPS:52.6
+Objects:
+
+ cvWriteFrame
+
+FPS:50.7
+Objects:
+
+ cvWriteFrame
+
+FPS:55.3
+Objects:
+
+ cvWriteFrame
+
+FPS:57.5
+Objects:
+
+ cvWriteFrame
+
+FPS:51.5
+Objects:
+
+ cvWriteFrame
+
+FPS:52.0
+Objects:
+
+ cvWriteFrame
+
+FPS:43.7
+Objects:
+
+ cvWriteFrame
+
+FPS:42.4
+Objects:
+
+ cvWriteFrame
+
+FPS:40.4
+Objects:
+
+ cvWriteFrame
+
+FPS:41.8
+Objects:
+
+ cvWriteFrame
+
+FPS:51.1
+Objects:
+
+ cvWriteFrame
+
+FPS:47.8
+Objects:
+
+ cvWriteFrame
+
+FPS:46.2
+Objects:
+
+carrot: 27%
+
+ cvWriteFrame
+
+FPS:47.8
+Objects:
+
+ cvWriteFrame
+
+FPS:42.5
+Objects:
+
+ cvWriteFrame
+
+FPS:46.5
+Objects:
+
+ cvWriteFrame
+
+FPS:60.0
+Objects:
+
+ cvWriteFrame
+
+FPS:53.9
+Objects:
+
+ cvWriteFrame
+
+FPS:66.3
+Objects:
+
+ cvWriteFrame
+
+FPS:57.2
+Objects:
+
+ cvWriteFrame
+
+FPS:66.5
+Objects:
+
+ cvWriteFrame
+
+FPS:58.3
+Objects:
+
+ cvWriteFrame
+
+FPS:62.5
+Objects:
+
+ cvWriteFrame
+
+FPS:65.4
+Objects:
+
+oranges: 25%
+
+ cvWriteFrame
+
+FPS:56.6
+Objects:
+
+oranges: 29%
+
+ cvWriteFrame
+
+FPS:67.3
+Objects:
+
+oranges: 27%
+
+ cvWriteFrame
+
+FPS:54.5
+Objects:
+
+ cvWriteFrame
+
+FPS:55.6
+Objects:
+
+ cvWriteFrame
+
+FPS:56.7
+Objects:
+
+ cvWriteFrame
+
+FPS:50.2
+Objects:
+
+ cvWriteFrame
+
+FPS:49.5
+Objects:
+
+ cvWriteFrame
+
+FPS:47.8
+Objects:
+
+ cvWriteFrame
+
+FPS:51.3
+Objects:
+
+ cvWriteFrame
+
+FPS:49.5
+Objects:
+
+ cvWriteFrame
+
+FPS:42.8
+Objects:
+
+ cvWriteFrame
+
+FPS:45.3
+Objects:
+
+ cvWriteFrame
+
+FPS:48.9
+Objects:
+
+ cvWriteFrame
+
+FPS:68.8
+Objects:
+
+oranges: 28%
+
+ cvWriteFrame
+
+FPS:57.8
+Objects:
+
+ cvWriteFrame
+
+FPS:62.7
+Objects:
+
+ cvWriteFrame
+
+FPS:53.9
+Objects:
+
+ cvWriteFrame
+
+FPS:42.0
+Objects:
+
+ cvWriteFrame
+
+FPS:43.6
+Objects:
+
+ cvWriteFrame
+
+FPS:46.1
+Objects:
+
+ cvWriteFrame
+
+FPS:47.4
+Objects:
+
+ cvWriteFrame
+
+FPS:64.7
+Objects:
+
+ cvWriteFrame
+
+FPS:58.6
+Objects:
+
+ cvWriteFrame
+
+FPS:63.3
+Objects:
+
+ cvWriteFrame
+
+FPS:63.5
+Objects:
+
+ cvWriteFrame
+
+FPS:57.6
+Objects:
+
+ cvWriteFrame
+
+FPS:62.7
+Objects:
+
+ cvWriteFrame
+
+FPS:65.2
+Objects:
+
+ cvWriteFrame
+
+FPS:69.7
+Objects:
+
+ cvWriteFrame
+
+FPS:66.6
+Objects:
+
+ cvWriteFrame
+
+FPS:61.1
+Objects:
+
+ cvWriteFrame
+
+FPS:75.4
+Objects:
+
+ cvWriteFrame
+
+FPS:57.0
+Objects:
+
+ cvWriteFrame
+
+FPS:57.3
+Objects:
+
+ cvWriteFrame
+
+FPS:59.2
+Objects:
+
+ cvWriteFrame
+
+FPS:55.4
+Objects:
+
+ cvWriteFrame
+
+FPS:55.6
+Objects:
+
+ cvWriteFrame
+
+FPS:54.9
+Objects:
+
+ cvWriteFrame
+
+FPS:52.1
+Objects:
+
+ cvWriteFrame
+
+FPS:50.7
+Objects:
+
+ cvWriteFrame
+
+FPS:49.2
+Objects:
+
+ cvWriteFrame
+
+FPS:47.6
+Objects:
+
+ cvWriteFrame
+
+FPS:63.1
+Objects:
+
+ cvWriteFrame
+
+FPS:60.4
+Objects:
+
+ cvWriteFrame
+
+FPS:67.9
+Objects:
+
+kiwi: 26%
+
+ cvWriteFrame
+
+FPS:55.3
+Objects:
+
+ cvWriteFrame
+
+FPS:57.3
+Objects:
+
+ cvWriteFrame
+
+FPS:66.2
+Objects:
+
+ cvWriteFrame
+
+FPS:45.3
+Objects:
+
+ cvWriteFrame
+
+FPS:52.6
+Objects:
+
+gepa_bio_caffe_crema: 25%
+
+ cvWriteFrame
+
+FPS:53.5
+Objects:
+
+gepa_bio_caffe_crema: 27%
+
+ cvWriteFrame
+
+FPS:51.2
+Objects:
+
+ cvWriteFrame
+
+FPS:56.9
+Objects:
+
+ cvWriteFrame
+
+FPS:72.4
+Objects:
+
+ cvWriteFrame
+
+FPS:57.6
+Objects:
+
+ cvWriteFrame
+
+FPS:40.1
+Objects:
+
+ cvWriteFrame
+
+FPS:50.6
+Objects:
+
+ cvWriteFrame
+
+FPS:54.2
+Objects:
+
+ cvWriteFrame
+
+FPS:50.7
+Objects:
+
+ cvWriteFrame
+
+FPS:59.2
+Objects:
+
+ cvWriteFrame
+
+FPS:58.4
+Objects:
+
+ cvWriteFrame
+
+FPS:66.0
+Objects:
+
+ cvWriteFrame
+
+FPS:64.8
+Objects:
+
+ cvWriteFrame
+
+FPS:55.8
+Objects:
+
+ cvWriteFrame
+
+FPS:63.4
+Objects:
+
+ cvWriteFrame
+
+FPS:74.4
+Objects:
+
+ cvWriteFrame
+
+FPS:51.4
+Objects:
+
+ cvWriteFrame
+
+FPS:58.4
+Objects:
+
+ cvWriteFrame
+
+FPS:53.6
+Objects:
+
+ cvWriteFrame
+
+FPS:53.5
+Objects:
+
+ cvWriteFrame
+
+FPS:48.4
+Objects:
+
+ cvWriteFrame
+
+FPS:57.8
+Objects:
+
+ cvWriteFrame
+
+FPS:46.0
+Objects:
+
+ cvWriteFrame
+
+FPS:49.7
+Objects:
+
+ cvWriteFrame
+
+FPS:43.5
+Objects:
+
+ cvWriteFrame
+
+FPS:53.2
+Objects:
+
+ cvWriteFrame
+
+FPS:49.5
+Objects:
+
+ cvWriteFrame
+
+FPS:64.5
+Objects:
+
+ cvWriteFrame
+
+FPS:52.1
+Objects:
+
+ cvWriteFrame
+
+FPS:60.3
+Objects:
+
+ cvWriteFrame
+
+FPS:64.4
+Objects:
+
+ cvWriteFrame
+
+FPS:62.7
+Objects:
+
+ cvWriteFrame
+
+FPS:48.5
+Objects:
+
+ cvWriteFrame
+
+FPS:73.7
+Objects:
+
+ cvWriteFrame
+
+FPS:52.5
+Objects:
+
+ cvWriteFrame
+
+FPS:52.7
+Objects:
+
+ cvWriteFrame
+
+FPS:66.4
+Objects:
+
+ cvWriteFrame
+
+FPS:53.2
+Objects:
+
+ cvWriteFrame
+
+FPS:69.0
+Objects:
+
+ cvWriteFrame
+
+FPS:54.3
+Objects:
+
+ cvWriteFrame
+
+FPS:56.9
+Objects:
+
+ cvWriteFrame
+
+FPS:51.5
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 45%
+
+ cvWriteFrame
+
+FPS:49.6
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 63%
+
+ cvWriteFrame
+
+FPS:53.1
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 52%
+
+ cvWriteFrame
+
+FPS:44.0
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 57%
+
+ cvWriteFrame
+
+FPS:50.3
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 56%
+
+ cvWriteFrame
+
+FPS:56.7
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 74%
+
+ cvWriteFrame
+
+FPS:58.0
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 67%
+
+ cvWriteFrame
+
+FPS:58.5
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 56%
+
+ cvWriteFrame
+
+FPS:66.4
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 63%
+
+ cvWriteFrame
+
+FPS:53.1
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 41%
+
+ cvWriteFrame
+
+FPS:67.3
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 49%
+
+ cvWriteFrame
+
+FPS:48.8
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 66%
+
+ cvWriteFrame
+
+FPS:72.3
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 26%
+
+ cvWriteFrame
+
+FPS:62.4
+Objects:
+
+ cvWriteFrame
+
+FPS:56.7
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 27%
+
+ cvWriteFrame
+
+FPS:49.5
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 38%
+
+ cvWriteFrame
+
+FPS:35.7
+Objects:
+
+ cvWriteFrame
+
+FPS:60.2
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 26%
+
+ cvWriteFrame
+
+FPS:55.5
+Objects:
+
+ cvWriteFrame
+
+FPS:49.6
+Objects:
+
+ cvWriteFrame
+
+FPS:50.6
+Objects:
+
+ cvWriteFrame
+
+FPS:44.4
+Objects:
+
+ cvWriteFrame
+
+FPS:60.0
+Objects:
+
+ cvWriteFrame
+
+FPS:54.2
+Objects:
+
+ cvWriteFrame
+
+FPS:63.0
+Objects:
+
+ cvWriteFrame
+
+FPS:49.8
+Objects:
+
+franken_tafelreiniger: 42%
+
+ cvWriteFrame
+
+FPS:50.5
+Objects:
+
+franken_tafelreiniger: 55%
+
+ cvWriteFrame
+
+FPS:42.5
+Objects:
+
+ cvWriteFrame
+
+FPS:52.8
+Objects:
+
+ cvWriteFrame
+
+FPS:57.9
+Objects:
+
+ cvWriteFrame
+
+FPS:62.3
+Objects:
+
+ cvWriteFrame
+
+FPS:50.1
+Objects:
+
+ cvWriteFrame
+
+FPS:55.1
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 28%
+dr_oetker_vitalis_knuspermuesli_klassisch: 28%
+
+ cvWriteFrame
+
+FPS:54.0
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 27%
+
+ cvWriteFrame
+
+FPS:64.6
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 32%
+
+ cvWriteFrame
+
+FPS:50.7
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 32%
+
+ cvWriteFrame
+
+FPS:60.8
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 32%
+
+ cvWriteFrame
+
+FPS:55.2
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 33%
+
+ cvWriteFrame
+
+FPS:64.7
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 35%
+dr_oetker_vitalis_knuspermuesli_klassisch: 32%
+
+ cvWriteFrame
+
+FPS:57.0
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 25%
+
+ cvWriteFrame
+
+FPS:65.1
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 33%
+
+ cvWriteFrame
+
+FPS:56.0
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 26%
+dr_oetker_vitalis_knuspermuesli_klassisch: 31%
+
+ cvWriteFrame
+
+FPS:72.4
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 36%
+
+ cvWriteFrame
+
+FPS:51.8
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 50%
+
+ cvWriteFrame
+
+FPS:67.9
+Objects:
+
+gepa_bio_und_fair_rooibostee: 36%
+dr_oetker_vitalis_knuspermuesli_klassisch: 33%
+
+ cvWriteFrame
+
+FPS:54.7
+Objects:
+
+gepa_bio_und_fair_rooibostee: 34%
+dr_oetker_vitalis_knuspermuesli_klassisch: 49%
+
+ cvWriteFrame
+
+FPS:61.7
+Objects:
+
+gepa_bio_und_fair_rooibostee: 33%
+dr_oetker_vitalis_knuspermuesli_klassisch: 50%
+
+ cvWriteFrame
+
+FPS:56.9
+Objects:
+
+gepa_bio_und_fair_rooibostee: 39%
+dr_oetker_vitalis_knuspermuesli_klassisch: 38%
+
+ cvWriteFrame
+
+FPS:63.3
+Objects:
+
+gepa_bio_und_fair_rooibostee: 30%
+dr_oetker_vitalis_knuspermuesli_klassisch: 39%
+
+ cvWriteFrame
+
+FPS:48.8
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 28%
+
+ cvWriteFrame
+
+FPS:57.9
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 28%
+
+ cvWriteFrame
+
+FPS:54.4
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 26%
+
+ cvWriteFrame
+
+FPS:58.7
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 42%
+
+ cvWriteFrame
+
+FPS:60.0
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 36%
+
+ cvWriteFrame
+
+FPS:52.1
+Objects:
+
+ cvWriteFrame
+
+FPS:49.1
+Objects:
+
+ cvWriteFrame
+
+FPS:46.8
+Objects:
+
+gepa_bio_und_fair_rooibostee: 28%
+
+ cvWriteFrame
+
+FPS:46.8
+Objects:
+
+ cvWriteFrame
+
+FPS:48.1
+Objects:
+
+gepa_bio_und_fair_rooibostee: 29%
+
+ cvWriteFrame
+
+FPS:39.2
+Objects:
+
+cucumber: 33%
+
+ cvWriteFrame
+
+FPS:53.1
+Objects:
+
+cucumber: 27%
+gepa_bio_und_fair_rooibostee: 27%
+
+ cvWriteFrame
+
+FPS:60.4
+Objects:
+
+cucumber: 27%
+
+ cvWriteFrame
+
+FPS:49.4
+Objects:
+
+ cvWriteFrame
+
+FPS:55.0
+Objects:
+
+cucumber: 30%
+
+ cvWriteFrame
+
+FPS:52.2
+Objects:
+
+ cvWriteFrame
+
+FPS:47.5
+Objects:
+
+cucumber: 28%
+
+ cvWriteFrame
+
+FPS:71.3
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 28%
+
+ cvWriteFrame
+
+FPS:58.5
+Objects:
+
+gepa_bio_und_fair_rooibostee: 37%
+
+ cvWriteFrame
+
+FPS:62.1
+Objects:
+
+gepa_bio_und_fair_rooibostee: 30%
+gepa_bio_und_fair_kraeuterteemischung: 27%
+
+ cvWriteFrame
+
+FPS:52.7
+Objects:
+
+gepa_bio_und_fair_rooibostee: 43%
+
+ cvWriteFrame
+
+FPS:68.6
+Objects:
+
+gepa_bio_und_fair_rooibostee: 36%
+
+ cvWriteFrame
+
+FPS:46.9
+Objects:
+
+gepa_bio_und_fair_rooibostee: 37%
+dr_oetker_vitalis_knuspermuesli_klassisch: 27%
+
+ cvWriteFrame
+
+FPS:63.9
+Objects:
+
+gepa_bio_und_fair_rooibostee: 34%
+dr_oetker_vitalis_knuspermuesli_klassisch: 29%
+
+ cvWriteFrame
+
+FPS:63.1
+Objects:
+
+gepa_bio_und_fair_rooibostee: 40%
+dr_oetker_vitalis_knuspermuesli_klassisch: 32%
+
+ cvWriteFrame
+
+FPS:53.3
+Objects:
+
+gepa_bio_und_fair_rooibostee: 32%
+dr_oetker_vitalis_knuspermuesli_klassisch: 34%
+
+ cvWriteFrame
+
+FPS:53.0
+Objects:
+
+gepa_bio_und_fair_rooibostee: 48%
+dr_oetker_vitalis_knuspermuesli_klassisch: 29%
+
+ cvWriteFrame
+
+FPS:60.8
+Objects:
+
+ cvWriteFrame
+
+FPS:64.2
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 42%
+
+ cvWriteFrame
+
+FPS:53.9
+Objects:
+
+ cvWriteFrame
+
+FPS:49.2
+Objects:
+
+ cvWriteFrame
+
+FPS:70.2
+Objects:
+
+ cvWriteFrame
+
+FPS:53.9
+Objects:
+
+ cvWriteFrame
+
+FPS:63.1
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 29%
+
+ cvWriteFrame
+
+FPS:53.4
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 26%
+
+ cvWriteFrame
+
+FPS:56.7
+Objects:
+
+ cvWriteFrame
+
+FPS:61.2
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 26%
+
+ cvWriteFrame
+
+FPS:63.7
+Objects:
+
+ cvWriteFrame
+
+FPS:51.7
+Objects:
+
+ cvWriteFrame
+
+FPS:56.8
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 34%
+
+ cvWriteFrame
+
+FPS:55.8
+Objects:
+
+ cvWriteFrame
+
+FPS:64.6
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 35%
+
+ cvWriteFrame
+
+FPS:48.7
+Objects:
+
+ cvWriteFrame
+
+FPS:63.0
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 41%
+
+ cvWriteFrame
+
+FPS:54.5
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 44%
+
+ cvWriteFrame
+
+FPS:68.8
+Objects:
+
+ cvWriteFrame
+
+FPS:46.2
+Objects:
+
+dr_oetker_vitalis_knuspermuesli_klassisch: 31%
+
+ cvWriteFrame
+
+FPS:71.5
+Objects:
+
+ cvWriteFrame
+
+FPS:53.4
+Objects:
+
+ cvWriteFrame
+
+FPS:69.7
+Objects:
+
+ cvWriteFrame
+
+FPS:53.0
+Objects:
+
+ cvWriteFrame
+
+FPS:69.0
+Objects:
+
+ cvWriteFrame
+
+FPS:46.4
+Objects:
+
+ cvWriteFrame
+
+FPS:48.6
+Objects:
+
+franken_tafelreiniger: 28%
+
+ cvWriteFrame
+
+FPS:46.2
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 45%
+banana_bundle: 35%
+
+ cvWriteFrame
+
+FPS:41.2
+Objects:
+
+franken_tafelreiniger: 45% gepa_bio_und_fair_kraeuterteemischung: 32%
+banana_bundle: 38%
+
+ cvWriteFrame
+
+FPS:57.9
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 54%
+banana_bundle: 34%
+
+ cvWriteFrame
+
+FPS:51.2
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 29%
+
+ cvWriteFrame
+
+FPS:57.7
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 51%
+apple_golden_delicious: 28%
+
+ cvWriteFrame
+
+FPS:51.8
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 37%
+
+ cvWriteFrame
+
+FPS:50.3
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 40%
+
+ cvWriteFrame
+
+FPS:47.0
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 42%
+banana_bundle: 26%
+
+ cvWriteFrame
+
+FPS:46.8
+Objects:
+
+gepa_bio_und_fair_kraeuterteemischung: 29%
+banana_bundle: 27%
+apple_golden_delicious: 26%
+
+ cvWriteFrame
+
+FPS:55.5
+Objects:
+
+apple_golden_delicious: 27% banana_single: 28%
+
+ cvWriteFrame
+
+FPS:53.7
+Objects:
+
+banana_single: 38%
+banana_bundle: 37%
+
+ cvWriteFrame
+
+FPS:65.0
+Objects:
+
+banana_single: 26%
+banana_bundle: 41%
+
+ cvWriteFrame
+
+FPS:58.0
+Objects:
+
+banana_single: 47%
+banana_bundle: 35%
+
+ cvWriteFrame
+
+FPS:66.1
+Objects:
+
+banana_single: 40%
+banana_bundle: 44%
+
+ cvWriteFrame
+
+FPS:53.4
+Objects:
+
+banana_single: 46%
+banana_bundle: 29%
+apple_golden_delicious: 45%
+
+ cvWriteFrame
+
+FPS:67.3
+Objects:
+
+franken_tafelreiniger: 29%
+banana_single: 43%
+banana_bundle: 29%
+
+ cvWriteFrame
+
+FPS:52.9
+Objects:
+
+banana_single: 39%
+banana_bundle: 52%
+apple_golden_delicious: 69%
+
+ cvWriteFrame
+
+FPS:48.9
+Objects:
+
+banana_single: 38%
+banana_bundle: 43%
+apple_golden_delicious: 26%
+
+ cvWriteFrame
+
+FPS:48.8
+Objects:
+
+banana_single: 48%
+banana_bundle: 53%
+
+ cvWriteFrame
+
+FPS:59.0
+Objects:
+
+banana_single: 42%
+banana_bundle: 50%
+
+ cvWriteFrame
+
+FPS:52.7
+Objects:
+
+banana_single: 35%
+banana_bundle: 42%
+
+ cvWriteFrame
+
+FPS:68.8
+Objects:
+
+banana_single: 45%
+banana_bundle: 54%
+apple_golden_delicious: 32%
+
+ cvWriteFrame
+
+FPS:47.9
+Objects:
+
+banana_single: 26%
+banana_bundle: 50%
+apple_golden_delicious: 56%
+
+ cvWriteFrame
+
+FPS:50.0
+Objects:
+
+banana_single: 26%
+banana_bundle: 73%
+apple_golden_delicious: 34%
+
+ cvWriteFrame
+
+FPS:46.8
+Objects:
+
+banana_single: 32%
+banana_single: 28%
+banana_bundle: 73%
+apple_golden_delicious: 31%
+
+ cvWriteFrame
+
+FPS:44.8
+Objects:
+
+banana_single: 29%
+banana_bundle: 81%
+
+ cvWriteFrame
+
+FPS:49.0
+Objects:
+
+banana_single: 25%
+banana_bundle: 87%
+
+ cvWriteFrame
+
+FPS:66.8
+Objects:
+
+franken_tafelreiniger: 26%
+banana_single: 36%
+banana_bundle: 85%
+
+ cvWriteFrame
+
+FPS:50.4
+Objects:
+
+banana_single: 40%
+banana_bundle: 90%
+
+ cvWriteFrame
+
+FPS:66.6
+Objects:
+
+banana_bundle: 95%
+
+ cvWriteFrame
+
+FPS:52.6
+Objects:
+
+banana_single: 60%
+banana_bundle: 96%
+
+ cvWriteFrame
+
+FPS:63.9
+Objects:
+
+banana_single: 44%
+banana_bundle: 95%
+
+ cvWriteFrame
+
+FPS:53.8
+Objects:
+
+banana_single: 48%
+banana_bundle: 90%
+
+ cvWriteFrame
+
+FPS:50.8
+Objects:
+
+banana_single: 29%
+banana_bundle: 87%
+
+ cvWriteFrame
+
+FPS:51.3
+Objects:
+
+banana_bundle: 89%
+
+ cvWriteFrame
+
+FPS:44.3
+Objects:
+
+banana_single: 29%
+banana_bundle: 84%
+
+ cvWriteFrame
+
+FPS:52.5
+Objects:
+
+banana_bundle: 81%
+
+ cvWriteFrame
+
+FPS:60.0
+Objects:
+
+banana_bundle: 70%
+
+ cvWriteFrame
+
+FPS:64.8
+Objects:
+
+banana_bundle: 70%
+
+ cvWriteFrame
+
+FPS:60.0
+Objects:
+
+banana_single: 34%
+banana_bundle: 52%
+
+ cvWriteFrame
+
+FPS:57.5
+Objects:
+
+banana_single: 32%
+banana_bundle: 63%
+
+ cvWriteFrame
+
+FPS:62.6
+Objects:
+
+banana_single: 45%
+banana_bundle: 74%
+
+ cvWriteFrame
+
+FPS:53.5
+Objects:
+
+banana_single: 32%
+banana_bundle: 51%
+
+ cvWriteFrame
+
+FPS:45.2
+Objects:
+
+banana_single: 44%
+banana_bundle: 65%
+
+ cvWriteFrame
+
+FPS:54.1
+Objects:
+
+salad_iceberg: 28%
+banana_single: 46%
+banana_bundle: 71%
+
+ cvWriteFrame
+
+FPS:55.9
+Objects:
+
+salad_iceberg: 40%
+banana_single: 51%
+banana_bundle: 72%
+
+ cvWriteFrame
+
+FPS:53.4
+Objects:
+
+banana_single: 45%
+banana_bundle: 74%
+
+ cvWriteFrame
+
+FPS:65.6
+Objects:
+
+banana_single: 44%
+banana_bundle: 75%
+
+ cvWriteFrame
+
+FPS:56.5
+Objects:
+
+banana_single: 56%
+banana_bundle: 91%
+
+ cvWriteFrame
+Stream closed.
+
+FPS:57.3
+Objects:
+
+pasta_reggia_fusilli: 30%
+banana_single: 47%
+banana_bundle: 79%
+
+ cvWriteFrame
+input video stream closed.
+output_video_writer closed.
